@@ -120,6 +120,9 @@ nav ul li a:hover::after {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.para li {
+    padding:5px;
+}
 
 .tab-tittles {
     display: flex;
